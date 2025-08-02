@@ -1,6 +1,6 @@
 name: coderspace_network
 description: "A lightweight and developer-friendly Dio-based HTTP client for Flutter with clean response handling and model parsing."
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/coderspacedev
 repository: https://github.com/coderspacedev/coderspace_network
 issue_tracker: https://github.com/coderspacedev/coderspace_network/issues
