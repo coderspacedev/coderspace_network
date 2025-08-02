@@ -1,5 +1,5 @@
 name: coderspace_network
-description: "coderspace_network is a lightweight, developer-friendly Flutter package for making REST API calls using Dio. It provides clean, generic request handling, consistent error management, and simple utilities like auto-list parsing—all with minimal code."
+description: "A lightweight and developer-friendly Dio-based HTTP client for Flutter with clean response handling and model parsing."
 version: 1.0.1
 homepage: https://github.com/coderspacedev
 repository: https://github.com/coderspacedev/coderspace_network
